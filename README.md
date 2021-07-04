@@ -1,16 +1,22 @@
-### Hi there 👋
+# 👨‍💻 Olá seja bem vindo (a).
 
-<!--
-**LeviDeyvid/LeviDeyvid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Opa, Tudo bom?**
+
+Meu nome é Levi, tenho 22 anos e sou estudante de bacharel em Sistemas da Informação, 
+atualmente cursando o 4º semestre.
+
+Conhecimento básico nas linguagens:
+
+ - 💻Python
+ - 💻Java
+ - 💻Oracle Sql
+ - 🔍Estou Aberto a oportunidades de Estagio.
+# Contatos
+<a href="https://www.linkedin.com/in/levideyvid/"><img alt="Linkedin URL" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=whitehttps://www.linkedin.com/in/levideyvid/" height="25">  <a href="mailto:Levi1_100@hotmail.com"><img alt="Mailto" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" height="25"></a> <a href="https://github.com/LeviDeyvid"><img alt="github URL" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" height="25"></a>
+
+  
+  
+  
+  
