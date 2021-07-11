@@ -13,6 +13,8 @@ Conhecimento básico nas linguagens:
  - 💻Java
  - 💻Oracle Sql
  - 🔍Estou Aberto a oportunidades de Estagio.
+ # Contatos
+<a href="https://www.linkedin.com/in/levideyvid/"><img alt="Linkedin URL" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=whitehttps://www.linkedin.com/in/levideyvid/" height="25">  <a href="mailto:levi1_100@hotmail.com"><img alt="mailto:levi1_100@hotmail.com" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" height="25"></a> <a href="https://github.com/LeviDeyvid"><img alt="github URL" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" height="25"></a>
 
 
   
