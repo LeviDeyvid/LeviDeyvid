@@ -4,8 +4,8 @@
 
 **Opa, Tudo bom?**
 
-Meu nome é Levi, tenho 22 anos e sou estudante de bacharel em Sistemas da Informação, 
-atualmente cursando o 4º semestre.
+Meu nome é Levi, tenho 23 anos e sou estudante de bacharel em Sistemas da Informação, 
+atualmente cursando o 6º semestre.
 
 Conhecimento básico nas linguagens:
 
